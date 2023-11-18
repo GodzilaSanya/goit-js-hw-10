@@ -1,0 +1,33 @@
+img {
+  width: 500px;
+  height: 100%;
+}
+h3 {
+  display: inline-block;
+}
+
+p {
+  display: inline-block;
+}
+
+.loader {
+  font-weight: bold;
+  font-size: 20px;
+}
+.error {
+  font-weight: bold;
+  font-size: 20px;
+  color: red;
+}
+.cat-info {
+  margin-top: 15px;
+  display: flex;
+  /* width: 1000px; */
+}
+.wrapper {
+  margin-left: 15px;
+}
+
+.disabled {
+  display: none;
+}
