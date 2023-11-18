@@ -26,6 +26,7 @@ p {
 }
 .wrapper {
   margin-left: 15px;
+  width: 600px;
 }
 
 .disabled {
